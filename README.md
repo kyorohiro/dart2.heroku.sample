@@ -1,4 +1,8 @@
-An absolute bare-bones web app.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+I try to done following blog 's heroku deploy. 
+
+https://codeburst.io/deploying-dart-2-apps-on-heroku-27fa120f1ec4
+
+
+use following build pack
+https://github.com/kyorohiro/heroku-buildpack-dart
