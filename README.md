@@ -1,9 +1,9 @@
 
-I try to done following blog 's heroku deploy. 
+I tried to done following blog 's heroku deploy senario. 
 
 https://codeburst.io/deploying-dart-2-apps-on-heroku-27fa120f1ec4
 
 
-use following build pack
+I used following build pack
 
 https://github.com/kyorohiro/heroku-buildpack-dart
